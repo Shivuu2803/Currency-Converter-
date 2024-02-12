@@ -42,7 +42,5 @@ This Currency Converter project is a web application that allows users to conver
 
 - [Font Awesome](https://fontawesome.com/): Icons used in the project are provided by Font Awesome.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
